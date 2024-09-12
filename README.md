@@ -1,6 +1,6 @@
 # 👋 Hey there, Aryan here!
 
-👨‍💻 Data Analyst sharing about my journey and learnings in tech
+👨‍💻 Data Analyst sharing about my journey and learnings in the field of Data Analytics
 <br />
 👨‍🎓 Completed my Bachelor's of Technology
 <br />
